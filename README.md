@@ -1,2 +1,2 @@
 # MSc-Project
-Investigation int the the relation between CPR and IV characteristics in superconducting weak links
+Investigation into the the relation between CPR and IV characteristics in superconducting weak links
